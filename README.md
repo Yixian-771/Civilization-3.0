@@ -1,5 +1,3 @@
-# Civilization-3.0
-
 # Civilization 3.0
 
 **Civilization 3.0** is a next-stage human civilization model currently in operation.  
